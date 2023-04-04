@@ -1,4 +1,4 @@
-describe('The Home Page', () => {
+describe('The TestKube Home Page', () => {
   it('successfully loads', () => {
     cy.visit('https://testkube.kubeshop.io');
 
