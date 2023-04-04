@@ -1,0 +1,22 @@
+{
+  "name": "testkube-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-test.js",
+  "scripts": {
+    "test": "cypress run simple-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moser-ss/testkube-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moser-ss/testkube-poc/issues"
+  },
+  "homepage": "https://github.com/Moser-ss/testkube-poc#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
